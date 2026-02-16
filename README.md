@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @shinywesley
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ and assembly 
-- 📫 How to reach me: Message me
+
